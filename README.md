@@ -1,4 +1,4 @@
-#### Hey, guys! 👋
+### Hey, guys! 👋
 
 I'm a `"Problem Solver"` but people call me a `"Full-Stack"` engineer ;)
 
